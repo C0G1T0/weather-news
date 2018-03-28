@@ -1,0 +1,67 @@
+@font-face {
+font-family: 'digital';
+src: url('polices/DS-DIGI.TTF');
+}
+
+@font-face {
+font-family: 'digiBold';
+src: url('polices/DS-DIGIB.TTF');
+}
+
+body {
+    padding-top: 50px;
+    text-align: center;
+    background-color: #E5E7E9;
+}
+
+h1{
+
+	font-family: digiBold, arial, sans-serif;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+h2{
+
+	font-family: digital, arial, sans-serif;
+	font-size: 50px;
+}
+
+h3{
+
+	font-family: digibold, arial, sans-serif;
+	font-size: 100px;
+	margin-bottom: 30px;
+}
+
+h4{
+
+	font-family: digibold, arial, sans-serif;
+	font-size: 10vh;
+	margin-bottom: 20px;
+}
+
+	
+input[type="text"]{
+	font-family: digital, arial, sans-serif;`
+	width: 95%;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+input[type="button"]{
+	font-family: digital, arial, sans-serif;`
+	width: 95%;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#cityName, #button-fetch {
+	font-size: 45px;
+}
+	
+
+	
+
+
