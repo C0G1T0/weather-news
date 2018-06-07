@@ -49,7 +49,7 @@ input[type="text"]{
 	margin-bottom: 20px;
 }
 
-input[type="button"]{
+#button-fetch{
 	font-family: digital, arial, sans-serif;`
 	width: 95%;
 	border-radius: 10px;
@@ -60,8 +60,3 @@ input[type="button"]{
 #cityName, #button-fetch {
 	font-size: 45px;
 }
-	
-
-	
-
-
